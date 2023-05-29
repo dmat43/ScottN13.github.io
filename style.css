@@ -1,0 +1,52 @@
+body{
+    background: rgb(36,0,11);
+    background: linear-gradient(90deg, rgba(36,0,11,1) 0%, rgba(121,9,9,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+ct{text-align: center;}
+head{color: gainsboro;}
+
+.center{
+    text-align: center;
+    margin: auto;
+    width: 30%;
+    border-radius: 15px;
+    border-top: 5px;
+    border-color: aqua;
+    border-style: outset;
+    background: rgb(9,121,76);
+    background: linear-gradient(90deg, rgba(9,121,76,1) 35%, rgba(0,212,255,1) 100%);
+    border-width: 10%;
+}
+
+.main{
+    margin: auto;
+    width: 50%;
+    border-radius: 15px;
+    border-style: solid;
+    background-color: rgb(197, 197, 197);
+    border-width: 10%;
+}
+
+
+h1{
+    color: gainsboro;
+}
+
+h2{
+    border-left: 0.2cm;
+    border-color: greenyellow;
+    border-style: solid;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    text-indent: 2%;
+}
+
+p{
+
+}
+
+h6{
+    color: gainsboro;
+}
