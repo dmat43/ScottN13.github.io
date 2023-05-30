@@ -41,12 +41,26 @@ h2{
     border-bottom: none;
     border-right: none;
     text-indent: 2%;
+    color: black;
+}
+
+a{
+    color: black;
 }
 
 p{
+    color: black;
+    text-indent: 2%;
+}
 
+a:hover{
+    color:black;
 }
 
 h6{
     color: gainsboro;
+}
+
+li{
+    color: black;
 }
