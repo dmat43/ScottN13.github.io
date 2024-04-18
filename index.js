@@ -1,1 +1,1 @@
-// future
+var toast = document.getElementById('wip');
